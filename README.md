@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Lucio</h1>
 <h3 align="center">A third-year Computer Science student at the University of La Plata</h3>
-<br>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/75/22/bc75225ef044d29d1f2d1c051d9b8063.gif">
 
 - 🌱 I’m currently learning **Python, Pandas and AWS**
